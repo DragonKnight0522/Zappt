@@ -1,0 +1,24 @@
+li {
+  list-style: none;
+  margin-left: 0px;
+  color: #14171a;
+}
+.nav-item {
+  color: #657786;
+}
+
+.nav-link {
+  color: #14171a;
+}
+
+.header-item {
+  color: #14171a;
+}
+
+.btn-close {
+  padding: unset !important;
+}
+
+.offcanvas-header {
+  justify-content: right !important;
+}
